@@ -1,0 +1,11 @@
+This are the config files that I used to enable the CLion debugger for gt_threads. This is an excellent way for debugging your code, but it is not a replacement for Makefile.
+
+This is meant to be used in any environment with Docker installed:
+
+Follow the steps here to install in your machine: https://github.com/shuhaoliu/docker-clion-dev
+
+Then just set a breakpoint in your code and debug as a CMake Application.
+
+Please feel free to create pull requests and fix the configuration. I highly appretiated!!
+
+**THIS IS NOT A PERFECT TOOL DON"T BLAME ME OR THE CONFIG FOR ERRORS ALWAYS RUN YOUR CODE IN THE CLASS SERVER BEFORE SUBMIT IT**
